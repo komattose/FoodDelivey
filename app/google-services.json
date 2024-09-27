@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "409363586492",
+    "firebase_url": "https://semana-6-8f8da-default-rtdb.firebaseio.com",
+    "project_id": "semana-6-8f8da",
+    "storage_bucket": "semana-6-8f8da.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:409363586492:android:d06e41d398e51d56d19fb9",
+        "android_client_info": {
+          "package_name": "Food.app.android"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQpWY-e2_6Rv6CWj1Xd7yFA6iUQZrKTI8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:409363586492:android:39ae9e6b580126c5d19fb9",
+        "android_client_info": {
+          "package_name": "com.example.myapplication6"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQpWY-e2_6Rv6CWj1Xd7yFA6iUQZrKTI8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
